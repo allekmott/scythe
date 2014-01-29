@@ -16,7 +16,7 @@ p, ul, ol, h1, h2, h3, h4, h5, h6 {
 	border-radius: 10px;
 }
 #content {
-	border-color: #fff;
+	background-color: #fff;
 }
 #content h1 {
 	border-bottom: 1px dotted purple;
