@@ -1,3 +1,23 @@
-h1 {
-	color: purple;
+/* style.css
+ * Created: 4 Jan 2014
+ * Author: tchieze
+ */
+
+body {
+	background-color: #000;
+}
+p, ul, ol, h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+#container {
+	width: 800px;
+	margin: 0 auto 0 auto;
+	border: 1px solid #999;
+	border-radius: 10px;
+}
+#content {
+	border-color: #fff;
+}
+#content h1 {
+	border-bottom: 1px dotted purple;
 }
